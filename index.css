@@ -1,0 +1,82 @@
+body 
+{
+	font-family: Open Sans,Arial;
+    color: #454545;
+    font-size: 16px;
+    margin: 2em auto;
+    max-width: 800px;
+    padding: 1em;
+    line-height: 1.4;
+    text-align: justify;
+}
+
+span.wg 
+{
+	color :red;
+	text-decoration: underline;
+}
+span.wko
+{
+	font-size: 0.3em;
+}
+span.but
+{
+	font-size: 0.3em;
+}
+span.which
+{
+	font-size: 0.3em;
+}
+span.this
+{
+	font-size: 0.3em;
+}
+span.blue
+{
+	color: blue 
+}
+span.well
+{
+	font-size: 0.3em;
+}
+span.you
+{
+	font-family: courier new;
+	font-size: 0.9em;
+	margin-left: 5%;
+}
+span.som
+{
+	font-size: 0.7em;
+	margin-left: 5%;
+}
+span.good 
+{
+	margin-left:5%;
+}
+span.cit
+{
+	font-size: 0.3;
+}
+.cat 
+{
+	float: left;
+    width: 40%;
+    overflow: hidden;
+    margin-right: 1em;
+}
+.block 
+{
+	display: block;
+}
+.caption
+{
+	font-size: .7em;
+}
+.kopimi
+{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	height: 2em;
+}
